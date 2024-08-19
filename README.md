@@ -97,7 +97,11 @@ This program is intended for educational and example purposes related to blockch
 Thank You
 Thank you for exploring this project. For more information and updates, you can follow me:
 
-Website: www.BitDigiNet.com Launching in 2025 "BitDigiNet Designs" fromally www.FixedConnect.com 
-SatoshiUNO Blog: Blog.Satosh.uno 
+Website: www.BitDigiNet.com Launching in 2025 "BitDigiNet Designs" fromally www.FixedConnect.com
+ 
+SatoshiUNO Blog: Blog.Satosh.uno
+ 
 X (formerly Twitter): @BitDigiNet
+
 Thank you from SatoshiUNO! / Lucas.
+ 
